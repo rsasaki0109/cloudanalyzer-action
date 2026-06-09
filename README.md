@@ -61,6 +61,8 @@ See [`examples/`](examples/).
 
 ## Publishing
 
-This directory is the source for the standalone repository
-[`rsasaki0109/cloudanalyzer-action`](https://github.com/rsasaki0109/cloudanalyzer-action).
-Copy or subtree-split it, tag `v1`, and list on GitHub Marketplace.
+Published at **[github.com/rsasaki0109/cloudanalyzer-action](https://github.com/rsasaki0109/cloudanalyzer-action)** (`@v1`).
+
+To list on GitHub Marketplace: open the action repository → **Settings** → **Actions** → **Publish to GitHub Marketplace** (requires accepting the GitHub Marketplace Developer Agreement once per account).
+
+This directory in the CloudAnalyzer monorepo is the development source; copy or subtree-sync changes here before tagging a new release on the standalone repository.
